@@ -1,5 +1,6 @@
 {
   "name": "Theme Ocean High Contrast Dark+",
+  "include":"./dark.json",
   "tokenColors": [
     {
       "name": "Function declarations",
