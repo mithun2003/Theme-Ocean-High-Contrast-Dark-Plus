@@ -1,0 +1,33 @@
+{
+  "name": "theme-ocean-high-contrast-dark",
+  "displayName": "Theme Ocean High Contrast Dark+",
+  "description": "Dark plus ocean high contrast theme",
+  "version": "0.0.1",
+  "publisher": "MithunThomas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mithun2003/Theme-Ocean-High-Contrast-Dark-Plus"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "MithunThomas",
+    "Mithun",
+    "Theme Ocean High Contrast Dark+"
+  ],
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme Ocean High Contrast Dark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theme Ocean High Contrast Dark+-color-theme.json"
+      }
+    ]
+  }
+}
